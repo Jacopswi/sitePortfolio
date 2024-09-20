@@ -1,0 +1,36 @@
+---
+const { text } = Astro.props;
+---
+
+<h1 id="boss" class="mb-5 text-4xl font-bold leading-tight md:text-4xl lg:text-6xl dark:text-white">
+  {text}
+</h1>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var fonts = [
+      "Arial", "Verdana", "Times New Roman", "Georgia", "Courier New", 
+      "Tahoma", "Trebuchet MS", "Palatino", "Comic Sans MS", "Lucida Console", 
+      "Gill Sans","Impact", "Monaco"
+    ];
+    var colors = [
+      "#FF5733", "#33FF57", "#3357FF", "#F0E68C", "#9400D3", 
+      "#FFD700", "#FF1493", "#00FFFF", "#FF4500", "#2E8B57", 
+      "#D2691E", "#FF6347", "#4682B4", "#DAA520"
+    ];
+    var textElement = document.getElementById("boss");
+
+
+    function getRandomIndex(arrayLength : number) {
+      return Math.floor(Math.random() * arrayLength);
+    }
+
+    setInterval(() => {
+      var randomFontIndex = getRandomIndex(fonts.length);
+      var randomColorIndex = getRandomIndex(colors.length);
+
+      textElement!.style.fontFamily = fonts[randomFontIndex];
+      textElement!.style.color = colors[randomColorIndex];
+    }, 700);
+  });
+</script>
