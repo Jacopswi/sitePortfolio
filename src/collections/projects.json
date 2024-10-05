@@ -1,9 +1,9 @@
 [
 	{
-		"name": "Email.ML",
-		"description": "Minimalist temporary Email.",
-		"image": "/assets/images/projects/email.ml.png",
-		"url": "https://email.ml"
+		"name": "Brawl Stats",
+		"description": "Statistiques Brawl Stars en temps direct.",
+		"image": "https://cdn.discordapp.com/attachments/1228712333199802372/1292175225571643484/bs.png?ex=6702c775&is=670175f5&hm=05ba890e3a904b9ac5163eeccaec37f19495b51e58589a7ca6c84291fcae6c9e&",
+		"url": "http://localhost:4321/post/brawlstarangular"
 	},
 	{
 		"name": "DNS.Surf",
