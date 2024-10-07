@@ -2,14 +2,14 @@
 	{
 		"name": "Brawl Stats",
 		"description": "Statistiques Brawl Stars en temps direct.",
-		"image": "https://cdn.discordapp.com/attachments/1228712333199802372/1292175225571643484/bs.png?ex=6702c775&is=670175f5&hm=05ba890e3a904b9ac5163eeccaec37f19495b51e58589a7ca6c84291fcae6c9e&",
+		"image": "https://i.ibb.co/jHsBLKm/bs.png",
 		"url": "http://localhost:4321/post/brawlstarangular"
 	},
 	{
-		"name": "DNS.Surf",
-		"description": "Querying DNS Resolution Results in Different Regions Worldwide.",
-		"image": "/assets/images/projects/dns.surf.png",
-		"url": "https://dns.surf"
+		"name": "Jeu de stratégie en C",
+		"description": "Jeu de stratégie en Joueur contre Ordinateur.",
+		"image": "https://i.ibb.co/3FcFrCx/regle-c.jpg",
+		"url": "http://localhost:4321/post/strategyc"
 	},
 	{
 		"name": "HTML.ZONE",

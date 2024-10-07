@@ -9,7 +9,7 @@ Ce projet est un site créé en Angular qui utilise l'API Brawl Star pour affich
 
 Lien vers le GitHub du projet : [https://github.com/Jacopswi/brawlstar-angular](https://github.com/Jacopswi/brawlstar-angular)
 
-[![AI background remover](https://cdn.discordapp.com/attachments/1228712333199802372/1292175225571643484/bs.png?ex=6702c775&is=670175f5&hm=05ba890e3a904b9ac5163eeccaec37f19495b51e58589a7ca6c84291fcae6c9e&)](https://cdn.discordapp.com/attachments/1228712333199802372/1292175225571643484/bs.png?ex=6702c775&is=670175f5&hm=05ba890e3a904b9ac5163eeccaec37f19495b51e58589a7ca6c84291fcae6c9e&)
+[![AI background remover](https://i.ibb.co/jHsBLKm/bs.png)](https://i.ibb.co/jHsBLKm/bs.png)
 
 * * *
 
