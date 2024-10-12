@@ -12,9 +12,9 @@
 		"url": "http://localhost:4321/post/strategyc"
 	},
 	{
-		"name": "HTML.ZONE",
-		"description": "Web Toolbox.",
-		"image": "/assets/images/projects/html.zone.png",
-		"url": "https://html.zone"
+		"name": "Application GentiVoisin",
+		"description": "Site type Leboncoin pour faire des échanges entre voisins",
+		"image": "https://i.ibb.co/PtGHCMq/gentivoisin2.png",
+		"url": "http://localhost:4321/post/gentivoisin"
 	}
 ]
