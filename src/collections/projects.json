@@ -3,18 +3,18 @@
 		"name": "Brawl Stats",
 		"description": "Statistiques Brawl Stars en temps direct.",
 		"image": "https://i.ibb.co/jHsBLKm/bs.png",
-		"url": "http://localhost:4321/post/brawlstarangular"
+		"url": "../post/brawlstarangular"
 	},
 	{
 		"name": "Jeu de stratégie en C",
 		"description": "Jeu de stratégie en Joueur contre Ordinateur.",
 		"image": "https://i.ibb.co/3FcFrCx/regle-c.jpg",
-		"url": "http://localhost:4321/post/strategyc"
+		"url": "../post/strategyc"
 	},
 	{
 		"name": "Application GentiVoisin",
 		"description": "Site type Leboncoin pour faire des échanges entre voisins",
 		"image": "https://i.ibb.co/PtGHCMq/gentivoisin2.png",
-		"url": "http://localhost:4321/post/gentivoisin"
+		"url": "../post/gentivoisin"
 	}
 ]
