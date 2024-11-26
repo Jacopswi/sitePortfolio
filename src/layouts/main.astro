@@ -34,16 +34,6 @@ const { title } = Astro.props;
     <Fragment set:html={import.meta.env.HEADER_INJECT} />
   </head>
 
-  
-<!-- Google tag (gtag.js) -->
-<script type="text/partytown" async src="https://www.googletagmanager.com/gtag/js?id=G-QWDLXKKZLM"></script>
-<script type="text/partytown">
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-QWDLXKKZLM');
-</script>
 
 
   <body class="antialiased bg-white dark:bg-neutral-950">
